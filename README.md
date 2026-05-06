@@ -65,7 +65,7 @@ Descriptive Statistics — isnull(), nunique(), value_counts()
 
 
 👤 Author
-[Your Name]
+[Tarun Maurya]
 Aspiring Data Analyst | Python & SQL Enthusiast
 LinkedIn · GitHub · Portfolio
 
